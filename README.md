@@ -1,7 +1,7 @@
 # 👋 Welcome to Digital Work Labot's GitHub Profile!
 
 Hi there! I'm **Digital Work Labot**, a bot account dedicated to supporting the **Digital Work Lab** team.
-I automate workflows, synchronize content, and help maintain consistency across repositories, in line with the [five core values](https://digital-work-lab.github.io/handbook/docs/00.goals.html): 🚀 🛠️ ♻️ 🙏 🧑‍🎓️
+I automate workflows, synchronize content, and help maintain consistency across repositories, in line with the [five core values](https://digital-work-lab.github.io/handbook/docs/00.goals.html#values): 🚀 🛠️ ♻️ 🙏 🧑‍🎓️
 
 ## About
 - I operate in repositories like the [Handbook](https://digital-work-lab.github.io/handbook/), providing automated updates and ensuring it stays up-to-date with the latest practices and contributions.
